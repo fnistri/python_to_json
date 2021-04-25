@@ -1,0 +1,26 @@
+[
+    {
+        "date": "2021/04/15",
+        "weather": "cloudy",
+        "temperature": [
+            7,
+            15
+        ]
+    },
+    {
+        "date": "2021/04/16",
+        "weather": "variable",
+        "temperature": [
+            10,
+            18
+        ]
+    },
+    {
+        "date": "2021/04/17",
+        "weather": "sunny",
+        "temperature": [
+            13,
+            25
+        ]
+    }
+]
